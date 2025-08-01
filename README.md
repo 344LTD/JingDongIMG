@@ -27,7 +27,7 @@
   <ol>
     <li>安装 <a href="https://www.tampermonkey.net/" target="_blank">Tampermonkey 浏览器插件</a></li>
     <li>点击安装此脚本：  
-      👉 <a href="https://github.com/344LTD/jd-feedback-imgpaste/raw/main/jd-feedback.user.js">点此安装</a>
+      👉 <a href="https://github.com/344LTD/JingDongIMG/raw/main/jd-feedback.user.js">点此安装</a>
     </li>
     <li>打开 <a href="https://feedback.jd.com/" target="_blank">https://feedback.jd.com/</a></li>
     <li>粘贴截图（按下 <code>Ctrl+V</code>）</li>
